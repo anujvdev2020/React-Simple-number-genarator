@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+}
+.item {
+  margin: 1px;
+  padding: 10px;
+  color: #fff;
+  font-size: 25px;
+}
